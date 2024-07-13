@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'Music/Ac_Dc/Back In Black/Ac_Dc Hells Bells.mp3',
+        path: 'Music/Ac-Dc/Back In Black/Ac_Dc Hells Bells.mp3',
         displayName: 'Hells Bells',
-        cover: 'Music/Ac_Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     },
     {
-        path: 'Music/Ac_Dc/Back In Black/Ac_Dc Back In Black.mp3',
+        path: 'Music/Ac-Dc/Back In Black/Ac_Dc Back In Black.mp3',
         displayName: 'Back in Black',
-        cover: 'Music/Ac_Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     },
     {
-        path: 'Music/Ac_Dc/Back In Black/Ac_Dc Shoot To Thrill.mp3',
+        path: 'Music/Ac-Dc/Back In Black/Ac_Dc Shoot To Thrill.mp3',
         displayName: 'Shoot to Thrill',
-        cover: 'Music/Ac_Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     }
 ];
