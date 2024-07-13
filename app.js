@@ -16,19 +16,19 @@ const songs = [
     {
         path: 'Music/Ac-Dc/Back In Black/Ac_Dc Hells Bells.mp3',
         displayName: 'Hells Bells',
-        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'tonmusic.github.io/Music/Ac-Dc/Back in Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     },
     {
         path: 'Music/Ac-Dc/Back In Black/Ac_Dc Back In Black.mp3',
         displayName: 'Back in Black',
-        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'Music/Ac-Dc/Back in Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     },
     {
         path: 'Music/Ac-Dc/Back In Black/Ac_Dc Shoot To Thrill.mp3',
         displayName: 'Shoot to Thrill',
-        cover: 'Music/Ac-Dc/Back In Black/Ac-Dc Back In Black.jpg',
+        cover: 'Music/Ac-Dc/Back in Black/Ac-Dc Back In Black.jpg',
         artist: 'AC/DC',
     }
 ];
